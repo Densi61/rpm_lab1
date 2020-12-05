@@ -1,0 +1,30 @@
+<pokemons>
+
+	<pokemon name='Slowpoke'>
+		<hp>1</hp>
+		<ap>11</ap>
+		<dp>111</dp>
+		<sp>1111</sp>
+		<sa>SuperSlow</sa>
+		<sd>MegaSlow</sd>
+	</pokemon>
+
+	<pokemon name='Jigglypuff'>
+		<hp>2</hp>
+		<ap>22</ap>
+		<dp>222</dp>
+		<sp>2222</sp>
+		<sa>Song</sa>
+		<sd>Cute</sd>
+	</pokemon>
+
+	<pokemon name='Rattata'>
+		<hp>3</hp>
+		<ap>33</ap>
+		<dp>333</dp>
+		<sp>3333</sp>
+		<sa>Rat</sa>
+		<sd>tatata</sd>
+	</pokemon>
+
+</pokemons>
