@@ -6,7 +6,6 @@ using namespace std;
 
 int main()
 {
-    cout << "213321" << endl;
     Slowpoke slowpoke("Slowpoke", 1, 11, 111, 1111, "SuperSlow", "MegaSlow");
     Jigglypuff jigglypuff("Jigglypuff", 2, 22, 222, 2222, "Song", "Cute");
     Rattata rattata("Rattata", 3, 33, 333, 3333, "Rat", "tatata");
